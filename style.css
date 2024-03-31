@@ -112,20 +112,20 @@ li::marker {
 }
 
 .recipe-wrapper {
-  margin: 5em auto;
+  margin: 7em auto;
   background-color: var(--clr-white);
   max-width: 44em;
 }
 
 .omelette-img {
-  padding: 2em 2em 0em 2em
+  padding: 2.3em 2.3em 0em 2.3em;
 }
 
 .content-wrapper {
   display: flex;
   flex-direction: column;
   gap: 2em;
-  padding: 2em;
+  padding: 2.3em;
 }
 
 .preparation {
